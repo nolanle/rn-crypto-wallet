@@ -1,0 +1,7 @@
+{
+  "repositoryUrl": "git@github.com:nolanle/rn-crypto-wallet.git",
+  "preset": "conventionalcommits",
+  "presetConfig": {
+    "issueUrlFormat": "{{host}}/{{owner}}/nolanle/rn-crypto-wallet/issues/{{id}}"
+  }
+}
