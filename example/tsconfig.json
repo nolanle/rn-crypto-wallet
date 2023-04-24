@@ -7,7 +7,7 @@
     "module": "CommonJS",
     "noEmit": true,
     "paths": {
-      "react-native-module-template": ["../src"]
+      "rn-crypto-wallet": ["../src"]
     },
     "skipLibCheck": true,
     "strict": true,
